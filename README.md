@@ -28,8 +28,8 @@ Página de quiz com questões objetivas e com sistema de pontuação/ranking.
 
 ## <div id="funcionalidades">✨ Funcionalidades</div>
 
-✔️ Registro de participantes
-✔️ Sistema de pontuação
+✔️ Registro de participantes\
+✔️ Sistema de pontuação\
 ✔️ Ranking dos cinco melhores colocados
 
 ## <div id="tecnologias">🚀 Tecnologias</div>
