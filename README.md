@@ -121,7 +121,7 @@ $ cd quiz
 # O app vai inicializar em <http://127.0.0.1:<porta>/>
 ```
 
-7° - Entre no site de Administação do Django e adicione algumas perguntas:
+7° - Entre no site de Administração do Django e adicione algumas perguntas:
 
 <p>
     <img alt="Adicionar pergunta" src="assets/images/adicionar_pergunta.jpeg" width=500>
